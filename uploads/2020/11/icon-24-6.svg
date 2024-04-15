@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="37px" viewBox="0 0 50 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-24-6</title>
+    <defs>
+        <linearGradient x1="100%" y1="77.38%" x2="0%" y2="22.62%" id="linearGradient-1">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-1088.000000, -3675.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <path d="M1118.37987,3675 L1138,3693.5 L1118.37987,3712 L1118.379,3704.527 L1110.45468,3712 L1110.45468,3702.96545 L1088,3702.96545 L1088,3684.03455 L1110.45468,3684.03455 L1110.45468,3675 L1118.379,3682.472 L1118.37987,3675 Z M1119.26044,3677.12775 L1119.26044,3683.30222 L1121.092,3685.03 L1130.07482,3693.5 L1130.073,3693.499 L1130.07482,3693.5 L1119.26044,3703.69678 L1119.26044,3709.87125 L1136.62364,3693.5 L1119.26044,3677.12775 Z M1111.33526,3677.12775 L1111.33526,3685.03091 L1088.88058,3685.03091 L1088.88058,3701.96909 L1111.33526,3701.96909 L1111.33526,3709.87125 L1128.69846,3693.5 L1111.33526,3677.12775 Z" id="icon-24-6"></path>
+        </g>
+    </g>
+</svg>

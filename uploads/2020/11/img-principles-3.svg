@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="279" height="233" viewBox="0 0 279 233">
+  <defs>
+    <linearGradient id="img-principles-3-a" x1="108.096%" x2="0%" y1="62.954%" y2="38.965%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#CFA9FC"/>
+      <stop offset="100%" stop-color="#F4D9FB"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-b" x1="100%" x2="0%" y1="71.573%" y2="28.427%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-c" x1="100%" x2="0%" y1="50.143%" y2="49.857%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-d" x1="100%" x2="0%" y1="72.222%" y2="27.778%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-e" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-f" x1="100%" x2="0%" y1="78.125%" y2="21.875%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-g" x1="50.5%" x2="49.5%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-h" x1="92.014%" x2="7.986%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-i" x1="100%" x2="0%" y1="50.021%" y2="49.979%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-j" x1="100%" x2="0%" y1="50.056%" y2="49.944%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-3-k" x1="100%" x2="0%" y1="51.653%" y2="48.347%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <path fill="#FAFAFA" d="M206.482115,68.7900445 C206.482115,107.756008 221.5,134.514477 221.5,153.290472 C221.5,172.066467 213.469225,211.5 149.202064,211.5 C84.9349037,211.5 75.5,158.450632 75.5,137.798727 C75.5,41.0908044 206.482115,-0.218638007 206.482115,68.7900445 Z" opacity=".65" transform="matrix(0 -1 -1 0 271.5 271.5)"/>
+    <path stroke="url(#img-principles-3-a)" stroke-width=".5" d="M220.089615,163.134727 C247.211049,151.49296 264.422433,134.125209 264.422433,114.724287 C264.422433,91.9723113 240.751834,72.0165311 205.186491,60.8128472 M93.0846972,56.4254996 C45.9489862,65.5998267 12.4870196,88.7823004 12.4870196,115.930916 C12.4870196,142.456841 44.4315975,165.196475 89.8631497,174.783068" opacity=".499" transform="scale(1 -1) rotate(-31 -278.4 0)"/>
+    <g fill="#5055FE" transform="rotate(-40 183.343 9.535)">
+      <circle cx="8.725" cy="8.791" r="6" opacity=".152" transform="rotate(45 8.725 8.791)"/>
+      <circle cx="8.725" cy="8.791" r="2" transform="rotate(45 8.725 8.791)"/>
+    </g>
+    <g fill="#5055FE" transform="rotate(-40 339.293 -247.96)">
+      <circle cx="8.725" cy="8.791" r="6" opacity=".152" transform="rotate(45 8.725 8.791)"/>
+      <circle cx="8.725" cy="8.791" r="2" transform="rotate(45 8.725 8.791)"/>
+    </g>
+    <g fill="#5055FE" transform="rotate(-40 133.07 -198.561)">
+      <circle cx="8.725" cy="8.791" r="6" opacity=".152" transform="rotate(45 8.725 8.791)"/>
+      <circle cx="8.725" cy="8.791" r="2" transform="rotate(45 8.725 8.791)"/>
+    </g>
+    <path stroke="#E3E0E0" stroke-dasharray="2" d="M86.7766754,57.6111146 C63.4742739,63.6452259 44.6579128,73.7598994 33.6771995,86.1884585 C26.8819431,93.8796935 23.0874068,102.457048 23.0874068,111.501842 C23.0874068,125.580755 32.2813026,138.527096 47.6752366,148.761819 C68.513511,162.616237 100.71284,171.501842 136.847008,171.501842 M160.204803,171.823098 C191.164586,168.6069 217.662352,158.617993 234.204803,144.823098 M254.663439,112.933972 C254.663439,95.0966044 240.007311,79.0536953 216.663439,67.933972" opacity=".649" transform="rotate(149 138.875 114.717)"/>
+    <g transform="translate(86 48)">
+      <path stroke="url(#img-principles-3-b)" stroke-linecap="round" stroke-linejoin="round" d="M8,48 L110,48 L110,113 C110,114.104569 109.104569,115 108,115 L10,115 C8.8954305,115 8,114.104569 8,113 L8,48 L8,48 Z" opacity=".75"/>
+      <rect width="112" height="6" x="3" y="42" stroke="url(#img-principles-3-c)" rx="1" transform="matrix(1 0 0 -1 0 90)"/>
+      <g fill="#FFF" stroke-linejoin="round" transform="translate(.97 .97)">
+        <path stroke="url(#img-principles-3-d)" d="M34.7018547,66.983883 C41.5115844,63.6612943 48.9442995,62 57,62 C65.0758666,62 73.1517332,63.6696223 81.2275998,67.0088669 C81.6951017,67.2021334 82,67.6581385 82,68.1640139 L82,87.8491246 C82.0000056,88.3484423 81.7028546,88.7998614 81.2442215,88.9972793 C73.4961477,92.3324264 65.7480738,94 58,94 C50.2519288,94 42.5038576,92.3324276 34.7557864,88.9972827 C34.297151,88.7998699 34,88.3484509 34,87.8491331 L34,68.1073207 C33.9999698,67.6294677 34.2723946,67.1934243 34.7018547,66.983883 Z"/>
+        <path stroke="url(#img-principles-3-e)" d="M21.4714999,18.8573106 L74.1726027,40.7475758 C74.6612001,40.9505227 75.0494773,41.3387999 75.2524242,41.8273973 L97.1426894,94.5285001 C97.5663933,95.548573 97.0829408,96.7189854 96.0628679,97.1426894 C95.5717525,97.3466822 95.0196155,97.3466822 94.5285001,97.1426894 L41.8273973,75.2524242 C41.3387999,75.0494773 40.9505227,74.6612001 40.7475758,74.1726027 L18.8573106,21.4714999 C18.4336067,20.451427 18.9170592,19.2810146 19.9371321,18.8573106 C20.4282475,18.6533178 20.9803845,18.6533178 21.4714999,18.8573106 Z" transform="rotate(-45 58 58)"/>
+        <ellipse cx="58" cy="58" stroke="url(#img-principles-3-f)" rx="4" ry="3"/>
+        <line x1="98.625" x2="98.625" y1="65" y2="77.5" stroke="url(#img-principles-3-g)" transform="matrix(1 0 0 -1 0 142.5)"/>
+        <path stroke="url(#img-principles-3-h)" d="M98.5294373,77.0294373 C101.567003,77.0294373 104.029437,79.4918711 104.029437,82.5294373 L104.029437,89.0294373 L99.0294373,89.0294373 L97.0294373,84.0294373 L95.0294373,89.0294373 L93.0294373,89.0294373 L93.0294373,82.5294373 C93.0294373,79.4918711 95.4918711,77.0294373 98.5294373,77.0294373 Z"/>
+      </g>
+      <line x1="24" x2="73" y1="102" y2="102" fill="#FFF" stroke="url(#img-principles-3-i)" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="44" x2="74" y1="107.5" y2="107.5" fill="#FFF" stroke="url(#img-principles-3-j)" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="77" x2="87.5" y1="102" y2="101.5" fill="#FFF" stroke="url(#img-principles-3-k)" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

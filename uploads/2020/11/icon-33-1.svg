@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <linearGradient id="ico-you-get-1-b" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <rect id="ico-you-get-1-a" width="60" height="60" x="0" y="0" rx="4"/>
+    <linearGradient id="ico-you-get-1-c" x1="100%" x2="0%" y1="83.815%" y2="16.185%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <g opacity=".062">
+      <use fill="#FAFAFA" xlink:href="#ico-you-get-1-a"/>
+      <use fill="url(#ico-you-get-1-b)" stroke="#000" stroke-opacity=".02" xlink:href="#ico-you-get-1-a"/>
+    </g>
+    <path fill="url(#ico-you-get-1-c)" fill-rule="nonzero" d="M27.1643514,15.6727799 L31.663,43.659 L35.6978869,25.2249936 L38.544,33.318 L48.49,33.3177799 L44.842208,29.5981088 L45.5562295,28.897985 L50.5550127,33.9959952 L45.5708734,39.5341809 L44.8275641,38.8652331 L48.919,34.3177799 L37.8366046,34.3183594 L35.922,28.876 L31.5126474,49.0241174 L26.899,20.326 L22.9826092,34.3183594 L10,34.3183594 L10,33.3183594 L22.223,33.318 L27.1643514,15.6727799 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-39-7</title>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="60" height="60" rx="4"></rect>
+        <linearGradient x1="100%" y1="56.377551%" x2="0%" y2="43.622449%" id="linearGradient-3">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50.296749%" x2="0%" y2="49.703251%" id="linearGradient-4">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="84.7222222%" y1="100%" x2="15.2777778%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="a1qa-Software-big-data-testing" transform="translate(-1329.000000, -976.000000)">
+            <g id="1-block" transform="translate(405.000000, 610.000000)">
+                <g id="icon-39-7" transform="translate(925.000000, 367.000000)">
+                    <g id="Rectangle" opacity="0.0620721756">
+                        <use fill="#FAFAFA" xlink:href="#path-2"></use>
+                        <use stroke-opacity="0.02" stroke="#000000" stroke-width="1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Group-18" transform="translate(17.000000, 13.000000)" fill-rule="nonzero">
+                        <path d="M18,0.5 L7,0.5 C6.17157288,0.5 5.5,1.17157288 5.5,2 L5.5,4 C5.5,4.82842712 6.17157288,5.5 7,5.5 L18,5.5 C18.8284271,5.5 19.5,4.82842712 19.5,4 L19.5,2 C19.5,1.17157288 18.8284271,0.5 18,0.5 Z M7,1.5 L18,1.5 C18.2761424,1.5 18.5,1.72385763 18.5,2 L18.5,4 C18.5,4.27614237 18.2761424,4.5 18,4.5 L7,4.5 C6.72385763,4.5 6.5,4.27614237 6.5,4 L6.5,2 C6.5,1.72385763 6.72385763,1.5 7,1.5 Z" id="Rectangle-Copy-4" fill="url(#linearGradient-3)"></path>
+                        <polygon id="Path-10" fill="url(#linearGradient-4)" points="18.4511719 13.5 18.4511719 14.5 5.47070312 14.5 5.47070312 13.5"></polygon>
+                        <polygon id="Path-10-Copy" fill="url(#linearGradient-4)" points="18.4511719 17.5 18.4511719 18.5 5.47070312 18.5 5.47070312 17.5"></polygon>
+                        <polygon id="Path-10-Copy-2" fill="url(#linearGradient-4)" points="18.4511719 21.5 18.4511719 22.5 5.47070312 22.5 5.47070312 21.5"></polygon>
+                        <path d="M23,2 C24.1045695,2 25,2.8954305 25,4 L25,30 C25,31.1045695 24.1045695,32 23,32 L2,32 C0.8954305,32 1.3527075e-16,31.1045695 0,30 L0,4 C-1.3527075e-16,2.8954305 0.8954305,2 2,2 L6,2 L6,4 C6,4.55228475 6.44771525,5 7,5 L7,5 L18,5 C18.5522847,5 19,4.55228475 19,4 L19,4 L19,2 L19,2 L23,2 Z" id="Combined-Shape" stroke="url(#linearGradient-5)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="251" viewBox="0 0 256 251">
+  <defs>
+    <linearGradient id="img-proprietary-engagement-a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E3E0E0"/>
+      <stop offset="100%" stop-color="#E3E0E0"/>
+    </linearGradient>
+    <linearGradient id="img-proprietary-engagement-b" x1="81.096%" x2="23.238%" y1="108.696%" y2="0%">
+      <stop offset="0%" stop-color="#A086F5"/>
+      <stop offset="20.276%" stop-color="#9C83F5"/>
+      <stop offset="70.727%" stop-color="#D4B1FC"/>
+      <stop offset="100%" stop-color="#EED7FD"/>
+    </linearGradient>
+    <circle id="img-proprietary-engagement-d" cx="203" cy="151" r="19"/>
+    <filter id="img-proprietary-engagement-c" width="160.5%" height="160.5%" x="-30.3%" y="-25%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0415817482   0 0 0 0 0.0415817482   0 0 0 0 0.0415817482  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="img-proprietary-engagement-e" x1="108.096%" x2="0%" y1="62.304%" y2="39.519%">
+      <stop offset="0%" stop-color="#A086F5"/>
+      <stop offset="20.276%" stop-color="#9C83F5"/>
+      <stop offset="70.727%" stop-color="#D4B1FC"/>
+      <stop offset="100%" stop-color="#EED7FD"/>
+    </linearGradient>
+    <circle id="img-proprietary-engagement-g" cx="123.9" cy="19.9" r="19"/>
+    <filter id="img-proprietary-engagement-f" width="160.5%" height="160.5%" x="-30.3%" y="-25%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0415817482   0 0 0 0 0.0415817482   0 0 0 0 0.0415817482  0 0 0 0.1 0"/>
+    </filter>
+    <circle id="img-proprietary-engagement-i" cx="45" cy="151" r="19"/>
+    <filter id="img-proprietary-engagement-h" width="160.5%" height="160.5%" x="-30.3%" y="-25%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0415817482   0 0 0 0 0.0415817482   0 0 0 0 0.0415817482  0 0 0 0.1 0"/>
+    </filter>
+    <linearGradient id="img-proprietary-engagement-j" x1="84.217%" x2="20.551%" y1="108.696%" y2="0%">
+      <stop offset="0%" stop-color="#A086F5"/>
+      <stop offset="20.276%" stop-color="#9C83F5"/>
+      <stop offset="70.727%" stop-color="#D4B1FC"/>
+      <stop offset="100%" stop-color="#EED7FD"/>
+    </linearGradient>
+    <circle id="img-proprietary-engagement-l" cx="124.9" cy="111.9" r="50"/>
+    <filter id="img-proprietary-engagement-k" width="123%" height="123%" x="-11.5%" y="-9.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0415817482   0 0 0 0 0.0415817482   0 0 0 0 0.0415817482  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 5)">
+    <circle cx="177" cy="81" r="77.25" stroke="url(#img-proprietary-engagement-a)" stroke-width=".5"/>
+    <circle cx="126" cy="162" r="77.25" stroke="url(#img-proprietary-engagement-a)" stroke-width=".5"/>
+    <path stroke="url(#img-proprietary-engagement-b)" stroke-linecap="round" stroke-width="20" d="M127.471509,22.0406944 C110.674724,36.165473 100,57.3361288 100,81 C100,123.525926 134.474074,158 177,158 C184.816169,158 192.360334,156.83541 199.468439,154.670286" transform="rotate(-2 149.734 90.02)"/>
+    <use fill="#000" filter="url(#img-proprietary-engagement-c)" xlink:href="#img-proprietary-engagement-d"/>
+    <use fill="#FFF" xlink:href="#img-proprietary-engagement-d"/>
+    <path stroke="url(#img-proprietary-engagement-e)" stroke-linecap="round" stroke-width="20" d="M201.700644,147.839156 C195.052783,112.077128 163.688493,85 126,85 C85.9155384,85 52.9849348,115.629307 49.3358844,154.760225"/>
+    <circle cx="77" cy="81" r="77.25" stroke="url(#img-proprietary-engagement-a)" stroke-width=".5"/>
+    <g fill="#5055FE" transform="translate(7 35)">
+      <circle cx="5" cy="5" r="5" opacity=".103"/>
+      <circle cx="5" cy="5" r="2.143"/>
+    </g>
+    <g fill="#5055FE" transform="translate(237 35)">
+      <circle cx="5" cy="5" r="5" opacity=".103"/>
+      <circle cx="5" cy="5" r="2.143"/>
+    </g>
+    <g fill="#5055FE" transform="translate(121 235)">
+      <circle cx="5" cy="5" r="5" opacity=".103"/>
+      <circle cx="5" cy="5" r="2.143"/>
+    </g>
+    <use fill="#000" filter="url(#img-proprietary-engagement-f)" xlink:href="#img-proprietary-engagement-g"/>
+    <use fill="#FFF" xlink:href="#img-proprietary-engagement-g"/>
+    <use fill="#000" filter="url(#img-proprietary-engagement-h)" xlink:href="#img-proprietary-engagement-i"/>
+    <use fill="#FFF" xlink:href="#img-proprietary-engagement-i"/>
+    <path stroke="url(#img-proprietary-engagement-j)" stroke-linecap="round" stroke-linejoin="round" stroke-width="20" d="M49.9735569,153.740503 C58.6589233,157.136111 68.1117943,159 78,159 C120.525926,159 155,124.525926 155,82 C155,57.8323274 143.86591,36.2651609 126.447404,22.1481739"/>
+    <use fill="#000" filter="url(#img-proprietary-engagement-k)" xlink:href="#img-proprietary-engagement-l"/>
+    <use fill="#FFF" xlink:href="#img-proprietary-engagement-l"/>
+    <path fill="#5055FE" fill-rule="nonzero" d="M137.700909,99 L143.827,107.001 L143.996024,107 L143.997,107.222 L144,107.226369 L143.997,107.229 L144,107.863155 L143.45,107.865 L126.501514,127.558145 C126.245295,127.855851 125.879507,128.005929 125.513544,127.999821 L125.485591,127.999915 C125.453137,128.000526 125.420245,127.997848 125.38736,127.991644 C125.145733,127.963512 124.909727,127.866598 124.71096,127.698246 C124.660902,127.655848 124.614243,127.609654 124.571403,127.560081 L124.571403,127.560081 L107,107.226963 L113.300788,99 L137.700909,99 Z M142.202,107.87 L131.887,107.909 L126.344,126.296 L142.202,107.87 Z M119.125,107.958 L108.909,107.997 L124.608,126.163 L119.125,107.958 Z M130.893,107.913 L120.125,107.954 L125.5,125.8 L130.893,107.913 Z M113.442,100.363 L108.256,107.135 L118.558,107.096 L113.442,100.363 Z M125.499988,100.284891 L120.398,107.09 L130.625,107.051 L125.499988,100.284891 Z M137.56,100.366 L132.536,107.043 L142.644,107.005 L137.56,100.366 Z M136.677,99.937 L126.444,99.937 L131.578125,106.715178 L136.677,99.937 Z M124.559,99.937 L114.325,99.937 L119.476392,106.714207 L124.559,99.937 Z"/>
+  </g>
+</svg>

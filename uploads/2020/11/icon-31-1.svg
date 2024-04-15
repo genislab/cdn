@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <linearGradient id="ico-advantages-1-b" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <rect id="ico-advantages-1-a" width="60" height="60" x="0" y="0" rx="4"/>
+    <linearGradient id="ico-advantages-1-c" x1="100%" x2="0%" y1="81.211%" y2="18.789%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <g opacity=".062">
+      <use fill="#FAFAFA" xlink:href="#ico-advantages-1-a"/>
+      <use fill="url(#ico-advantages-1-b)" stroke="#000" stroke-opacity=".02" xlink:href="#ico-advantages-1-a"/>
+    </g>
+    <path fill="url(#ico-advantages-1-c)" fill-rule="nonzero" d="M43.4993695,15 L50.1674613,23.7782447 L31.6439134,45.4740024 C31.1617838,46.0386981 30.3131641,46.1056311 29.7484684,45.6235015 C29.6954783,45.5782593 29.6460855,45.5289661 29.6007362,45.4760676 L29.6007362,45.4760676 L11,23.7788791 L17.6698884,15 L43.4993695,15 Z M48.571,24.105 L37.297,24.152 L31.303,44.333 L48.571,24.105 Z M23.905,24.208 L12.725,24.254 L29.837,44.216 L23.905,24.208 Z M36.253,24.156 L24.946,24.204 L30.587,43.232 L36.253,24.156 Z M17.92,16.321 L12.653,23.255 L23.238,23.211 L17.92,16.321 Z M30.5853399,16.322 L25.346,23.202 L35.846,23.158 L30.5853399,16.322 Z M43.249,16.325 L38.034,23.149 L48.401,23.106 L43.249,16.325 Z M42.239,15.999 L31.599,15.999 L36.9373399,22.938 L42.239,15.999 Z M29.575,15.999 L18.934,15.999 L24.2903399,22.937 L29.575,15.999 Z"/>
+  </g>
+</svg>

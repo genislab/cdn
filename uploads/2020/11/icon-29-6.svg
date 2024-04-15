@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="32px" viewBox="0 0 45 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-29-6</title>
+    <defs>
+        <linearGradient x1="100%" y1="74.3374797%" x2="0%" y2="25.6625203%" id="linearGradient-1">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="icons" transform="translate(-1091.000000, -4370.000000)" fill-rule="nonzero" stroke="url(#linearGradient-1)">
+            <path d="M1118.18336,4373 L1135,4401 L1103,4401 L1103,4398.57659 L1120.78318,4398.57659 L1111.73654,4387.31243 L1118.18336,4373 Z M1116,4371 L1104.58475,4396 L1092,4396 L1103.3473,4377.20714 L1116,4371 Z" id="icon-29-6"></path>
+        </g>
+    </g>
+</svg>

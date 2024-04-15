@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="422" viewBox="0 0 98 422">
+  <defs>
+    <linearGradient id="img-automation-vertical-e" x1="100%" x2="0%" y1="51.207%" y2="48.793%">
+      <stop offset="0%" stop-color="#1E85E9" stop-opacity=".3"/>
+      <stop offset="20.276%" stop-color="#8671F3" stop-opacity=".397"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#FFBEE8" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="img-automation-vertical-f" x1="100%" x2="0%" y1="63.79%" y2="36.21%">
+      <stop offset="0%" stop-color="#BED7F9"/>
+      <stop offset="20.276%" stop-color="#D4C6FB"/>
+      <stop offset="70.727%" stop-color="#ECCDFD"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+    </linearGradient>
+    <linearGradient id="img-automation-vertical-i" x1="100%" x2="0%" y1="55.174%" y2="44.826%">
+      <stop offset="0%" stop-color="#BED7F9"/>
+      <stop offset="20.276%" stop-color="#D4C6FB"/>
+      <stop offset="70.727%" stop-color="#ECCDFD"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+    </linearGradient>
+    <path id="img-automation-vertical-h" d="M179.096349,10.4653897 L179.645192,19.6935253 L189.746987,20.2347512 C184.245509,24.8442409 180.748403,31.758207 180.748403,39.4871795 C180.748403,51.9218696 189.800209,62.2470215 201.687659,64.2600687 L201.687659,64.2600687 L205.926804,64.2564119 L205.926691,64.6153841 L205.926691,64.6153841 C216.762819,64.6153846 225.996913,57.7926343 229.552799,48.2193823 L239.677656,48.7629079 L240.27308,58.8024141 L240.462455,58.7908367 C233.684926,70.8357672 220.760828,78.974359 205.931694,78.974359 C204.126847,78.974359 202.350219,78.8538003 200.609459,78.6203133 L200.609459,78.6203133 L157.878,78.648 L164.610624,71.4757835 L157.865,64.288 L175.126645,64.2770916 C169.756338,57.6412213 166.495745,49.2348124 166.362218,40.0729926 L166.357951,39.4871795 C166.357951,28.0119763 171.263543,17.6800293 179.096349,10.4653897 Z M72.614,64.345 L79.3075789,71.4753846 L72.522,78.704 L0.00978007228,78.7521017 L7.20026616,71.7931435 L1.42070856e-13,64.3931307 L72.614,64.345 Z M156.387,64.289 L163.131961,71.4757436 L156.398,78.649 L74.001,78.703 L80.7862416,71.4757835 L74.092,64.344 L156.387,64.289 Z M205.931694,0 C227.787668,0 245.505436,17.6790124 245.505436,39.4871795 C245.505436,45.8919781 243.977231,51.9406259 241.26481,57.2898865 L240.697102,47.7376134 L229.919353,47.1600724 C230.695791,44.7413449 231.114984,42.1631091 231.114984,39.4871795 C231.114984,25.609255 219.840041,14.3589744 205.931694,14.3589744 C200.358036,14.3589744 195.207287,16.165703 191.035589,19.2242352 L180.664687,18.6682927 L180.124168,9.55102745 C187.053035,3.59843612 196.071213,0 205.931694,0 Z"/>
+    <filter id="img-automation-vertical-g" width="101.2%" height="103.8%" x="-.6%" y="-1.9%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.105823864 0"/>
+    </filter>
+    <filter id="img-automation-vertical-j" width="137.1%" height="250.4%" x="-18.5%" y="-75.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.8"/>
+    </filter>
+    <linearGradient id="img-automation-vertical-k" x1="210.464%" x2="-348.439%" y1="48.543%" y2="57.225%">
+      <stop offset="0%" stop-color="#BED7F9"/>
+      <stop offset="28.036%" stop-color="#D4C6FB"/>
+      <stop offset="70.727%" stop-color="#ECCDFD"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+    </linearGradient>
+    <filter id="img-automation-vertical-l" width="108.8%" height="108.8%" x="-4.4%" y="-4.4%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation=".72"/>
+    </filter>
+    <filter id="img-automation-vertical-m" width="108.8%" height="108.8%" x="-4.4%" y="-4.4%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation=".72"/>
+    </filter>
+    <linearGradient id="img-automation-vertical-n" x1="100%" x2="-78.055%" y1="79.214%" y2="-7.06%">
+      <stop offset="0%" stop-color="#BED7F9"/>
+      <stop offset="20.276%" stop-color="#D4C6FB"/>
+      <stop offset="70.727%" stop-color="#ECCDFD"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+    </linearGradient>
+    <filter id="img-automation-vertical-o" width="158.1%" height="250.4%" x="-29.1%" y="-75.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.8"/>
+    </filter>
+    <linearGradient id="img-automation-vertical-p" x1="218.731%" x2="-297.009%" y1="63.72%" y2="66.062%">
+      <stop offset="0%" stop-color="#BED7F9"/>
+      <stop offset="30.03%" stop-color="#D4C6FB"/>
+      <stop offset="70.727%" stop-color="#ECCDFD"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+    </linearGradient>
+    <filter id="img-automation-vertical-q" width="158.1%" height="250.4%" x="-29.1%" y="-75.2%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.8"/>
+    </filter>
+    <linearGradient id="img-automation-vertical-r" x1="214.903%" x2="-183.495%" y1="50%" y2="63.067%">
+      <stop offset="0%" stop-color="#BED7F9"/>
+      <stop offset="30.03%" stop-color="#D4C6FB"/>
+      <stop offset="70.727%" stop-color="#ECCDFD"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+      <stop offset="100%" stop-color="#FBE5F9"/>
+    </linearGradient>
+    <linearGradient id="img-automation-vertical-s" x1="50%" x2="50%" y1="0%" y2="115.119%">
+      <stop offset="0%" stop-color="#CFC6FA" stop-opacity=".584"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <ellipse id="img-automation-vertical-a" cx="205.783" cy="48.103" rx="48.208" ry="48.103"/>
+    <mask id="img-automation-vertical-t" width="96.416" height="96.205" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#img-automation-vertical-a"/>
+    </mask>
+    <linearGradient id="img-automation-vertical-u" x1="50%" x2="50%" y1="0%" y2="115.119%">
+      <stop offset="0%" stop-color="#CFC6FA" stop-opacity=".584"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <ellipse id="img-automation-vertical-b" cx="107.569" cy="61.026" rx="37.055" ry="36.974"/>
+    <mask id="img-automation-vertical-v" width="74.111" height="73.949" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#img-automation-vertical-b"/>
+    </mask>
+    <ellipse id="img-automation-vertical-c" cx="303.998" cy="61.026" rx="37.055" ry="36.974"/>
+    <mask id="img-automation-vertical-w" width="74.111" height="73.949" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#img-automation-vertical-c"/>
+    </mask>
+    <linearGradient id="img-automation-vertical-x" x1="50%" x2="50%" y1="0%" y2="115.119%">
+      <stop offset="0%" stop-color="#CFC6FA" stop-opacity=".584"/>
+      <stop offset="100%" stop-color="#FFF" stop-opacity="0"/>
+    </linearGradient>
+    <ellipse id="img-automation-vertical-d" cx="205.783" cy="48.103" rx="17.628" ry="17.59"/>
+    <mask id="img-automation-vertical-y" width="35.257" height="35.179" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+      <use xlink:href="#img-automation-vertical-d"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="matrix(0 1 1 0 0 1.439)">
+    <g fill-rule="nonzero" transform="translate(0 8.615)">
+      <path fill="url(#img-automation-vertical-e)" d="M180.600171,39.4871795 C180.600171,53.365104 191.875114,64.6153846 205.783461,64.6153846 L205.788464,64.6153841 L205.788351,64.2564119 L210.027496,64.2600687 C218.981917,62.7437071 226.327363,56.510967 229.406973,48.2128984 L229.401126,48.3675645 L239.667685,48.692664 L239.99284,58.9592787 L240.222899,58.9522467 C239.155577,60.8283605 237.938724,62.6086867 236.58851,64.2770916 L259.639719,64.2911795 L266.383453,71.4757436 L259.647719,78.6511795 L211.105696,78.6203133 C209.364936,78.8538003 207.588308,78.974359 205.783461,78.974359 C184.146046,78.974359 166.564488,61.6471589 166.21502,40.1401722 L166.209719,39.4871795 L180.600171,39.4871795 Z M344.996719,64.3471795 L413.1542,64.3931307 L420.344214,72.045857 L413.14442,78.7521017 L344.898719,78.7071795 L351.686497,71.4757835 L344.996719,64.3471795 Z M261.119719,64.2921795 L343.515719,64.3461795 L350.207835,71.4757436 L343.420719,78.7061795 L261.124719,78.6521795 L267.862115,71.4757835 L261.119719,64.2921795 Z M245.357204,39.4871795 C245.357204,45.9638834 243.794492,52.0763948 241.024775,57.4697866 L240.713285,47.6471197 L229.726032,47.2991278 C230.492668,44.9582616 230.924104,42.4661128 230.96375,39.8791454 L230.966752,39.4871795 L245.357204,39.4871795 Z"/>
+      <path fill="url(#img-automation-vertical-f)" d="M107.568627,25.4871795 C122.271738,25.4871795 134.190963,37.3803333 134.190963,52.0512821 C134.190963,66.7222308 122.271738,78.6153846 107.568627,78.6153846 C107.31844,78.6153846 107.069059,78.611941 106.820529,78.6050988 L106.820486,78.6153846 L74.0840707,78.6151795 L80.7862416,71.4757835 L74.0100707,64.2561795 L83.9167936,64.2570246 C82.0186322,60.6023416 80.9462916,56.4517672 80.9462916,52.0512821 C80.9462916,37.3803333 92.8655173,25.4871795 107.568627,25.4871795 Z M72.5300707,64.2561795 L79.3075789,71.4753846 L72.6060707,78.6151795 L33.0270707,78.6153846 L33.0270707,64.2564103 L72.5300707,64.2561795 Z M107.568627,39.8461538 C100.813144,39.8461538 95.3367434,45.3105759 95.3367434,52.0512821 C95.3367434,58.7919882 100.813144,64.2564103 107.568627,64.2564103 C114.32411,64.2564103 119.800512,58.7919882 119.800512,52.0512821 C119.800512,45.3105759 114.32411,39.8461538 107.568627,39.8461538 Z"/>
+      <use fill="#000" filter="url(#img-automation-vertical-g)" xlink:href="#img-automation-vertical-h"/>
+      <use fill="url(#img-automation-vertical-i)" xlink:href="#img-automation-vertical-h"/>
+      <g transform="translate(166.21 64.615)">
+        <rect width="29.141" height="7.179" x="9.714" y="1.436" fill="#391CA1" filter="url(#img-automation-vertical-j)" opacity=".5"/>
+        <rect width="44.251" height="13.641" fill="url(#img-automation-vertical-k)"/>
+      </g>
+      <path fill="#453696" d="M109.727195,27.6410256 C96.2162292,27.6410256 85.2634271,38.5698697 85.2634271,52.0512821 C85.2634271,65.5326944 96.2162292,76.4615385 109.727195,76.4615385 C123.238161,76.4615385 134.190963,65.5326944 134.190963,52.0512821 C134.190963,38.5698697 123.238161,27.6410256 109.727195,27.6410256 Z M109.727195,34.8205128 C119.264348,34.8205128 126.995737,42.534991 126.995737,52.0512821 C126.995737,61.5675731 119.264348,69.2820513 109.727195,69.2820513 C100.190043,69.2820513 92.458653,61.5675731 92.458653,52.0512821 C92.458653,42.534991 100.190043,34.8205128 109.727195,34.8205128 Z" filter="url(#img-automation-vertical-l)" opacity=".7"/>
+      <path fill="url(#img-automation-vertical-f)" d="M107.568627,25.4871795 C122.271738,25.4871795 134.190963,37.3803333 134.190963,52.0512821 C134.190963,66.7222308 122.271738,78.6153846 107.568627,78.6153846 C107.31844,78.6153846 107.069059,78.611941 106.820529,78.6050988 L106.820486,78.6153846 L74.0840707,78.6151795 L80.7862416,71.4757835 L74.0100707,64.2561795 L83.9167936,64.2570246 C82.0186322,60.6023416 80.9462916,56.4517672 80.9462916,52.0512821 C80.9462916,37.3803333 92.8655173,25.4871795 107.568627,25.4871795 Z M72.5300707,64.2561795 L79.3075789,71.4753846 L72.6060707,78.6151795 L33.0270707,78.6153846 L33.0270707,64.2564103 L72.5300707,64.2561795 Z M107.568627,39.8461538 C100.813144,39.8461538 95.3367434,45.3105759 95.3367434,52.0512821 C95.3367434,58.7919882 100.813144,64.2564103 107.568627,64.2564103 C114.32411,64.2564103 119.800512,58.7919882 119.800512,52.0512821 C119.800512,45.3105759 114.32411,39.8461538 107.568627,39.8461538 Z"/>
+      <path fill="#453696" d="M306.516624,27.6410256 C293.005658,27.6410256 282.052856,38.5698697 282.052856,52.0512821 C282.052856,65.5326944 293.005658,76.4615385 306.516624,76.4615385 C320.02759,76.4615385 330.980392,65.5326944 330.980392,52.0512821 C330.980392,38.5698697 320.02759,27.6410256 306.516624,27.6410256 Z M306.516624,34.8205128 C316.053777,34.8205128 323.785166,42.534991 323.785166,52.0512821 C323.785166,61.5675731 316.053777,69.2820513 306.516624,69.2820513 C296.979472,69.2820513 289.248082,61.5675731 289.248082,52.0512821 C289.248082,42.534991 296.979472,34.8205128 306.516624,34.8205128 Z" filter="url(#img-automation-vertical-m)" opacity=".5"/>
+      <path fill="url(#img-automation-vertical-n)" d="M304.069264,25.4871795 C318.772374,25.4871795 330.691599,37.3803333 330.691599,52.0512821 C330.691599,66.7222308 318.772374,78.6153846 304.069264,78.6153846 C303.819076,78.6153846 303.569695,78.611941 303.321165,78.6050988 L303.321122,78.6153846 L261.186701,78.6153846 L268.022165,71.4288862 L261.186701,64.2564103 L280.41743,64.2570246 C278.519268,60.6023416 277.446928,56.4517672 277.446928,52.0512821 C277.446928,37.3803333 289.366153,25.4871795 304.069264,25.4871795 Z M304.069264,39.8461538 C297.31378,39.8461538 291.837379,45.3105759 291.837379,52.0512821 C291.837379,58.7919882 297.31378,64.2564103 304.069264,64.2564103 C310.824747,64.2564103 316.301148,58.7919882 316.301148,52.0512821 C316.301148,45.3105759 310.824747,39.8461538 304.069264,39.8461538 Z"/>
+      <g transform="translate(279.175 64.615)">
+        <rect width="18.585" height="7.179" x="6.555" y="1.436" fill="#391CA1" filter="url(#img-automation-vertical-o)" opacity=".5"/>
+        <rect width="29.86" height="13.641" fill="url(#img-automation-vertical-p)"/>
+      </g>
+      <g transform="translate(82.026 64.615)">
+        <rect width="18.585" height="7.179" x="6.555" y="1.436" fill="#391CA1" filter="url(#img-automation-vertical-q)" opacity=".5"/>
+        <rect width="29.86" height="13.641" fill="url(#img-automation-vertical-r)"/>
+      </g>
+    </g>
+    <use stroke="url(#img-automation-vertical-s)" stroke-dasharray=".72" mask="url(#img-automation-vertical-t)" xlink:href="#img-automation-vertical-a"/>
+    <use stroke="url(#img-automation-vertical-u)" stroke-dasharray=".72" mask="url(#img-automation-vertical-v)" xlink:href="#img-automation-vertical-b"/>
+    <use stroke="url(#img-automation-vertical-u)" stroke-dasharray=".72" mask="url(#img-automation-vertical-w)" xlink:href="#img-automation-vertical-c"/>
+    <use stroke="url(#img-automation-vertical-x)" stroke-dasharray=".72" mask="url(#img-automation-vertical-y)" xlink:href="#img-automation-vertical-d"/>
+  </g>
+</svg>

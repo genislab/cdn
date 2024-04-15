@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <linearGradient id="icon-6-3-b" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <rect id="icon-6-3-a" width="60" height="60" x="0" y="0" rx="4"/>
+    <linearGradient id="icon-6-3-c" x1="100%" x2="0%" y1="81.531%" y2="18.469%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <g opacity=".062">
+      <use fill="#FAFAFA" xlink:href="#icon-6-3-a"/>
+      <use fill="url(#icon-6-3-b)" stroke="#000" stroke-opacity=".02" xlink:href="#icon-6-3-a"/>
+    </g>
+    <path fill="url(#icon-6-3-c)" fill-rule="nonzero" d="M28.2648693,17.667749 L13,31.4571109 L18.7000254,31.454 L18.7004546,41.4094087 C18.7004546,42.8383354 19.8578336,44 21.2896751,44 L38.7103254,44 L38.8742701,43.9948955 C40.2294882,43.9102454 41.2995459,42.7833708 41.2995459,41.4093671 L41.2969371,31.454 L47,31.4571104 L31.7351312,17.667749 C30.7495308,16.777417 29.2504698,16.777417 28.2648693,17.667749 Z M31.0516478,18.4056065 L44.3905317,30.455 L40.2843994,30.4546208 L40.2869126,41.4094803 C40.2869126,42.2896526 39.5791914,43 38.7103254,43 L21.2896751,43 C20.4208119,43 19.7130879,42.2896554 19.7130879,41.4093908 L19.7126911,30.4546207 L15.608456,30.455 L28.9483528,18.4056065 C29.5470297,17.8647978 30.4529708,17.8647978 31.0516478,18.4056065 Z"/>
+  </g>
+</svg>

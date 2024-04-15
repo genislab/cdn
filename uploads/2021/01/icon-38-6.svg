@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-38-6</title>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="60" height="60" rx="4"></rect>
+        <linearGradient x1="100%" y1="65.9436687%" x2="0%" y2="34.0563313%" id="linearGradient-3">
+            <stop stop-color="#1E85E9" offset="0%"></stop>
+            <stop stop-color="#8671F3" offset="20.275549%"></stop>
+            <stop stop-color="#C06CFD" stop-opacity="0.99" offset="70.7268792%"></stop>
+            <stop stop-color="#FFBEE8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="a1qa-qa-outsourcing-v2" transform="translate(-777.000000, -701.000000)">
+            <g id="#1" transform="translate(385.000000, 590.000000)">
+                <g id="2" transform="translate(294.000000, 112.000000)">
+                    <g id="icon-38-6" transform="translate(99.000000, 0.000000)">
+                        <g id="Rectangle" opacity="0.0620721756">
+                            <use fill="#FAFAFA" xlink:href="#path-2"></use>
+                            <use stroke-opacity="0.02" stroke="#000000" stroke-width="1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                        <path d="M30.5,18.5 C41.9072209,18.5 51.2215198,27.6068532 51.4938818,38.9881664 L51.4938818,38.9881664 L51.5061334,39.5001321 L31.8728666,39.5 L31.5129462,42.223854 L25.7932787,40.5400963 L26.2878666,39.5 L9.49386657,39.5001321 L9.51741715,38.6368997 C9.97075002,27.4200509 19.2103793,18.5 30.5,18.5 Z M32.0338666,30.649 L27.6327102,39.5001321 L27.3938666,39.5 L27.1990364,39.9105158 L30.6745849,40.9339258 L32.0338666,30.649 Z M30.5,19.5 C22.9108248,19.5 16.2942702,23.7325015 12.9065051,29.9790489 L16.3050095,31.5459176 L15.8863968,32.4540824 L12.4515276,30.8707029 C11.3606893,33.1481585 10.6881111,35.6651927 10.5340195,38.3232545 L10.5340195,38.3232545 L10.525,38.5 L26.7638666,38.499 L34.0238171,23.2393919 L33.8128666,24.828 L34.5536809,23.3406057 L32.277,38.5 L50.474,38.5 L50.4659805,38.3232545 C50.3153211,35.7243986 49.6690156,33.2603578 48.620741,31.0232432 L45.5169235,32.4540824 L45.0983108,31.5459176 L48.1733915,30.1278674 C44.9734056,24.1063805 38.7869495,19.921367 31.6044833,19.5300153 L31.6044922,23.0683594 L30.6044922,23.0683594 L30.6038666,19.5 Z" id="speed" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

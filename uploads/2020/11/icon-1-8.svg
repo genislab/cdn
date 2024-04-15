@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <linearGradient id="icon-1-8-b" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <rect id="icon-1-8-a" width="60" height="60" x="0" y="0" rx="4"/>
+    <linearGradient id="icon-1-8-c" x1="100%" x2="0%" y1="81.156%" y2="18.844%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <g opacity=".062">
+      <use fill="#FAFAFA" xlink:href="#icon-1-8-a"/>
+      <use fill="url(#icon-1-8-b)" stroke="#000" stroke-opacity=".02" xlink:href="#icon-1-8-a"/>
+    </g>
+    <path fill="url(#icon-1-8-c)" fill-rule="nonzero" d="M47,15.5 C47.8284271,15.5 48.5,16.1715729 48.5,17 L48.5,17 L48.5,39 C48.5,39.8284271 47.8284271,40.5 47,40.5 L47,40.5 L34.206,40.5 L30,44.7071068 L25.793,40.5 L13,40.5 C12.2203039,40.5 11.5795513,39.9051119 11.5068666,39.14446 L11.5068666,39.14446 L11.5,39 L11.5,17 C11.5,16.1715729 12.1715729,15.5 13,15.5 L13,15.5 Z M47,16.5 L13,16.5 C12.7238576,16.5 12.5,16.7238576 12.5,17 L12.5,17 L12.5,39 C12.5,39.2761424 12.7238576,39.5 13,39.5 L13,39.5 L26.2071068,39.5 L30,43.293 L33.7928932,39.5 L47,39.5 C47.2761424,39.5 47.5,39.2761424 47.5,39 L47.5,39 L47.5,17 C47.5,16.7238576 47.2761424,16.5 47,16.5 L47,16.5 Z M30,19.8702243 L32.388,24.711 L37.7318762,25.4877611 L33.865,29.255 L34.7785623,34.5771267 L30,32.064 L25.2214377,34.5771267 L26.134,29.255 L22.2681238,25.4877611 L27.611,24.711 L30,19.8702243 Z M30,22.13 L28.2747844,25.6254444 L24.417,26.185 L27.2085425,28.9069995 L26.549,32.748 L30,30.9351121 L33.45,32.748 L32.7914575,28.9069995 L35.582,26.185 L31.7252156,25.6254444 L30,22.13 Z"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <linearGradient id="ico-documentation-6-a" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ico-documentation-6-a)" d="M518,240 L518,300 L458,300 L458,240 L518,240 Z M517,241 L459,241 L459,299 L517,299 L517,241 Z M481.369141,245.5 L481.369141,246.5 L464.707,246.5 L511.5,293.293 L511.5,275.839844 L512.5,275.839844 L512.5,294.5 L511.999,294.5 L511.646447,294.853553 L511.293,294.5 L495.599609,294.5 L495.599609,293.5 L510.293,293.5 L464.5,247.707 L464.5,264.197266 L463.5,264.197266 L463.5,245.5 L481.369141,245.5 Z" transform="translate(-458 -240)"/>
+</svg>

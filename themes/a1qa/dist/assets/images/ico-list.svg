@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="13" viewBox="0 0 17 13">
+  <defs>
+    <linearGradient id="ico-list-a" x1="100%" x2="0%" y1="78.125%" y2="21.875%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <polyline fill="none" stroke="url(#ico-list-a)" stroke-linecap="round" stroke-linejoin="round" points="0 163.194 5.252 168.92 14.56 158" transform="translate(1 -157)"/>
+</svg>

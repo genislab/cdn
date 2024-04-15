@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="232" height="153" viewBox="0 0 232 153">
+  <defs>
+    <linearGradient id="img-stage-circle-a" x1="108.096%" x2="0%" y1="96.444%" y2="10.436%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#CFA9FC"/>
+      <stop offset="100%" stop-color="#F4D9FB"/>
+    </linearGradient>
+    <circle id="img-stage-circle-c" cx="115.5" cy="76.5" r="66.5"/>
+    <filter id="img-stage-circle-b" width="119.5%" height="119.5%" x="-9.8%" y="-8.3%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius="1" result="shadowSpreadOuter1"/>
+      <feOffset dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0415817482   0 0 0 0 0.0415817482   0 0 0 0 0.0415817482  0 0 0 0.1 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1)">
+    <line x2="230" y1="77.5" y2="77.5" stroke="#E3E0E0" stroke-dasharray="3" stroke-linecap="round"/>
+    <path fill="url(#img-stage-circle-a)" d="M115.50069,0 C155.550539,0 188.422111,30.6914895 191.817141,69.8069395 L200.616724,76.7132679 C201.051224,77.0541903 201.127084,77.6827944 200.786162,78.1172946 C200.736678,78.1803609 200.67979,78.2372483 200.616724,78.2867321 L191.597444,85.3651236 C187.197765,123.43874 154.806194,153 115.50069,153 C76.4951704,153 44.2984503,123.888248 39.5095551,86.2353733 L29.383276,78.2867321 C29.3202097,78.2372483 29.2633222,78.1803609 29.2138384,78.1172946 C28.8729161,77.6827944 28.9487758,77.0541903 29.383276,76.7132679 L29.383276,76.7132679 L39.2622772,68.9620476 C43.0537332,30.2504372 75.7396512,0 115.50069,0 Z"/>
+    <use fill="#000" filter="url(#img-stage-circle-b)" xlink:href="#img-stage-circle-c"/>
+    <use fill="#FFF" xlink:href="#img-stage-circle-c"/>
+  </g>
+</svg>

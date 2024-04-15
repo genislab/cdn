@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="285" height="240" viewBox="0 0 285 240">
+  <defs>
+    <linearGradient id="img-principles-1-a" x1="99.197%" x2=".803%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-1-b" x1="100%" x2="0%" y1="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-1-c" x1="100%" x2="0%" y1="69.945%" y2="30.055%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+    <linearGradient id="img-principles-1-d" x1="100%" x2="0%" y1="93.112%" y2="6.888%">
+      <stop offset="0%" stop-color="#1E85E9"/>
+      <stop offset="20.276%" stop-color="#8671F3"/>
+      <stop offset="70.727%" stop-color="#C06CFD" stop-opacity=".99"/>
+      <stop offset="100%" stop-color="#FFBEE8"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+    <path fill="#FAFAFA" d="M223.250452,70.8969854 C223.250452,102.598109 243,124.36771 243,139.643096 C243,154.918482 232.43898,187 147.923262,187 C63.4075446,187 51,143.841192 51,127.039642 C51,48.3620103 223.250452,14.7543284 223.250452,70.8969854 Z" opacity=".65"/>
+    <path stroke="url(#img-principles-1-a)" stroke-dasharray="3 4" stroke-linecap="round" stroke-linejoin="round" d="M75,118.150646 C79.8505051,147.563518 105.429251,170 136.255362,170 M198,101.484616 C194.739465,70.3053426 168.339638,46 136.255362,46"/>
+    <g fill="#FFF" transform="translate(63 43)">
+      <circle cx="38" cy="38" r="38" stroke="url(#img-principles-1-b)"/>
+      <path stroke="url(#img-principles-1-b)" stroke-linecap="round" stroke-linejoin="round" d="M38,11 C23.0883118,11 11,23.0883118 11,38 M12.679211,47.3943374 C13.5036399,49.6155853 14.611994,51.6988848 15.9601846,53.6001473 M20.4030378,58.4785834 C25.1289755,62.5432398 31.2775842,65 38,65 C52.9116882,65 65,52.9116882 65,38 C65,28.8600493 60.4584958,20.7808238 53.5089915,15.8958276" transform="rotate(67 38 38)"/>
+      <polyline stroke="url(#img-principles-1-c)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" points="29 37 36 44 48 32"/>
+    </g>
+    <g fill="#FFF" transform="translate(140 104)">
+      <circle cx="38" cy="38" r="38" stroke="url(#img-principles-1-b)"/>
+      <path stroke="url(#img-principles-1-b)" stroke-linecap="round" stroke-linejoin="round" d="M38,11 C23.0883118,11 11,23.0883118 11,38 M12.679211,47.3943374 C13.5036399,49.6155853 14.611994,51.6988848 15.9601846,53.6001473 M20.4030378,58.4785834 C25.1289755,62.5432398 31.2775842,65 38,65 C52.9116882,65 65,52.9116882 65,38 C65,28.8600493 60.4584958,20.7808238 53.5089915,15.8958276"/>
+      <g stroke="url(#img-principles-1-d)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" transform="translate(31 32)">
+        <line x2="14.656" y2="13.609"/>
+        <line x2="14.656" y2="13.609" transform="matrix(-1 0 0 1 14.656 0)"/>
+      </g>
+    </g>
+    <path stroke="#E3E0E0" stroke-dasharray="2" d="M80.667039,56.6442452 C56.9257844,63.4895247 37.7830168,74.215523 26.3055941,87.2048693 C18.716731,95.7934151 14.4790373,105.371461 14.4790373,115.471481 C14.4790373,131.192934 24.7466726,145.649681 41.9384383,157.078456 C59.8030518,168.954528 85.144392,177.560974 114.210817,180.919288 M207.740711,172.449222 C223.241008,167.146427 236.460383,160.065752 246.421937,151.736212 M268.658748,115.617543 C268.658748,95.7982454 252.45987,77.9727909 226.658748,65.6175428" opacity=".649" transform="rotate(-31 141.569 118.782)"/>
+    <g fill="#5055FE" transform="rotate(-40 183.45 -299.324)">
+      <circle cx="8.725" cy="8.791" r="6" opacity=".152" transform="rotate(45 8.725 8.791)"/>
+      <circle cx="8.725" cy="8.791" r="2" transform="rotate(45 8.725 8.791)"/>
+    </g>
+    <g fill="#5055FE" transform="rotate(-40 189.97 37.53)">
+      <circle cx="8.725" cy="8.791" r="6" opacity=".152" transform="rotate(45 8.725 8.791)"/>
+      <circle cx="8.725" cy="8.791" r="2" transform="rotate(45 8.725 8.791)"/>
+    </g>
+    <g fill="#5055FE" transform="rotate(-40 361.748 -105.303)">
+      <circle cx="8.725" cy="8.791" r="6" opacity=".152" transform="rotate(45 8.725 8.791)"/>
+      <circle cx="8.725" cy="8.791" r="2" transform="rotate(45 8.725 8.791)"/>
+    </g>
+  </g>
+</svg>
